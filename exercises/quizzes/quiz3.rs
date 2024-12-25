@@ -32,6 +32,10 @@ impl<T:std::fmt::Display> ReportCard<T>{
     }
 }
 
+fn main() {
+    // You can optionally experiment here.
+}
+
 #[cfg(test)]
 mod tests {
     use super::*;

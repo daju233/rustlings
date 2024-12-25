@@ -10,7 +10,9 @@
 // Execute `rustlings hint tests1` or use the `hint` watch subcommand for a
 // hint.
 
-
+fn main() {
+    // You can optionally experiment here.
+}
 
 #[cfg(test)]
 mod tests {

@@ -7,7 +7,9 @@
 // Execute `rustlings hint structs3` or use the `hint` watch subcommand for a
 // hint.
 
-
+fn main() {
+    // You can optionally experiment here.
+}
 
 #[derive(Debug)]
 struct Package {
